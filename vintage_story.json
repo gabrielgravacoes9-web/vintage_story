@@ -1,11 +1,15 @@
-[
-  {
-    "title": "Spacewar",
-    "uris": [
-      "magnet:?xt=urn:btih:08ade526059544471c3cc7b4e8134e8fbc57bb57"
-    ],
-    "uploadDate": "2026-09-06T12:00:00.000Z",
-    "fileSize": "1.5 GB",
-    "downloads": 0
-  }
-]
+{
+  "name": "Minha Fonte Customizada",
+  "downloads": [
+    {
+      "title": "Spacewar",
+      "id": "480",
+      "uris": [
+        "magnet:?xt=urn:btih:08ade526059544471c3cc7b4e8134e8fbc57bb57"
+      ],
+      "uploadDate": "2026-09-06T12:00:00.000Z",
+      "fileSize": "1.5 GB"
+    }
+  ]
+}
+
